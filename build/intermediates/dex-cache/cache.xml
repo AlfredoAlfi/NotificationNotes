@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\74150ad6bcde2ee2a95b230263551c71fc1c9f10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_2aa782059b804897f16199a682f6e4b3a5a9115a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\c6bfb1cec1673ee7ef7e301f1437c71296543ce4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95232650734173cbc81ea1774bf860b81dac3354\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\544775ce1d44c15d5e46b4aea874a168fdbb8a1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_5d549f84a7b0af25925f6e9b39db2cd8ed9d13b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\544775ce1d44c15d5e46b4aea874a168fdbb8a1c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d549f84a7b0af25925f6e9b39db2cd8ed9d13b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c7bb900b244942d17f5d4d450c736b298af697af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c7bb900b244942d17f5d4d450c736b298af697af\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\c6bfb1cec1673ee7ef7e301f1437c71296543ce4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_95232650734173cbc81ea1774bf860b81dac3354.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\74150ad6bcde2ee2a95b230263551c71fc1c9f10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2aa782059b804897f16199a682f6e4b3a5a9115a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\6a9d2b7e283f274f6f925154f03f197b545b1b14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_541179f5fb1feb7ae73ed2ebe327260e08331472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\17930af4cda3373d554498904eed4158bb4a201b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_a538d208e5826a9a16ba5f72f319d7e12a0e55dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\6a9d2b7e283f274f6f925154f03f197b545b1b14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_541179f5fb1feb7ae73ed2ebe327260e08331472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\17930af4cda3373d554498904eed4158bb4a201b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a538d208e5826a9a16ba5f72f319d7e12a0e55dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\3ed7c41c01522ccfc83bf47975a5211365a9ff03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_5279fde31efdf499368584817920963530c9783d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96f7ca73a6f98b77047f6561e78ad605724be52d">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2271e4b9d883470209d3b63b9ead59a081c23584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\3ed7c41c01522ccfc83bf47975a5211365a9ff03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5279fde31efdf499368584817920963530c9783d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f13393c913a26b6b9557fa2cd604f998da9f9aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\c8cdf35123a3d5792d0958016dc2a41e7e02fde7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f0d5b301b96381ac3957407e3aef675ff517035\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\c8cdf35123a3d5792d0958016dc2a41e7e02fde7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_8f0d5b301b96381ac3957407e3aef675ff517035.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\b113b68318214213f5b9226115af7980345d868b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c77a9378cde83f44656662aedb18b3c6c0fc7d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\e53cdf6b581044d79d0ae53766498d7cbf46de54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0528b183f61cbd53a5db534ed6938db09acd8506\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\b113b68318214213f5b9226115af7980345d868b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_8c77a9378cde83f44656662aedb18b3c6c0fc7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\42b2e5068704fe14d9bb0f61339979de6527ee83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_4716eb58286ae297056f5598dd362b86d1f3138b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_bfac3a0217eb40e1881a3d5f7a8e860b83db1a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\42b2e5068704fe14d9bb0f61339979de6527ee83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4716eb58286ae297056f5598dd362b86d1f3138b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\e53cdf6b581044d79d0ae53766498d7cbf46de54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_0528b183f61cbd53a5db534ed6938db09acd8506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_bfac3a0217eb40e1881a3d5f7a8e860b83db1a3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\4a58599e938e59ca2ceefb7e734255961c4fb485\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75875fdeccd6b5dee2c333369316b2f22d0721e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\4fa3666f2ececb3d3738668c60ad5f1742ddbfb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_11ccd689dcf9052f3b8533d8152c991abe146372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\4a58599e938e59ca2ceefb7e734255961c4fb485\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_75875fdeccd6b5dee2c333369316b2f22d0721e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\4b898dcb5c45a9b02ecf4ea717633e3301282989\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2dd98a29b1d482f13c9cef946841aba2fc110f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edu\.android\build-cache\4fa3666f2ececb3d3738668c60ad5f1742ddbfb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11ccd689dcf9052f3b8533d8152c991abe146372\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edu\.android\build-cache\4b898dcb5c45a9b02ecf4ea717633e3301282989\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Edu\AndroidStudioProjects\NotificationNotes\app\build\intermediates\pre-dexed\debug\classes_a2dd98a29b1d482f13c9cef946841aba2fc110f3.jar" />
+    </item>
+
+</items>

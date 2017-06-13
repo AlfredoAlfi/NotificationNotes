@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification Notes</string>
+    <string name="action_addNote">Añadir nota</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="TITULO">Título</string>
+    <string name="INFO">Acerca de esta nota</string>
+
+
+</resources>
